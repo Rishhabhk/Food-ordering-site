@@ -1,0 +1,11 @@
+body{
+    background-image: url("ccc.jpg");
+    background-size: 1400px 600px;
+    display: flex;
+    padding-left: 700px;
+    font-size: 20px;
+    color: aliceblue;
+}
+#second{
+    padding-left: 40px;
+}

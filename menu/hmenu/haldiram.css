@@ -1,0 +1,16 @@
+body{
+    background-image: url("hhh.jpg");
+    background-size: cover;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    display: flex;
+    color: aliceblue;
+    font-size: 25px;
+    padding-left: 50px;
+}
+#shakes{
+    padding-right: 50px;
+}
+
+    
+ 

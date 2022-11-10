@@ -1,0 +1,38 @@
+body{
+    background-image: url("sss.jpg");
+    background-size: 1080px 620px;
+    color:aliceblue;
+    display: flex;
+}
+
+#shakehead{
+    padding-left: 580px;
+}
+#shakes{
+    padding-left: 600px;
+    font-size: 20px;
+}
+#sandhead{
+    padding-left: 580px;
+}
+#sandwiches{
+    padding-left: 600px;
+}
+#second{
+    padding-left: 30px;
+}
+#desserts{
+    font-size:20px;
+}
+#sandwiches{
+    font-size:20px;
+}
+#coffee{
+    font-size:20px;
+}
+#desshead{
+    padding-left: 20px;
+}
+#coffhead{
+    padding-left: 20px;
+}

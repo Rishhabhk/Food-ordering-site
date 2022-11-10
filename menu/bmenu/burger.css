@@ -1,0 +1,11 @@
+body{
+    background-image: url("bbb.jpg");
+    background-size: 1300px 600px;
+    display: flex;
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 70px;
+}
+#second{
+    padding-left: 40px;
+}
